@@ -30,4 +30,8 @@ Por ultimo tenemos los **tipos de vehiculos registrados** en la Ciudad de Corrie
 
 De estos, se obtuvo que los vehiculos **particulares** recibieron la **mayor cantidad de actas** en el lapso de tiempo estudiado, seguidos de los **remises**.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Dentro del **Dashboard** realizado con **Power BI** se puede observar en más detalle los puntos del análisis explicados anteriormente.
+
 
